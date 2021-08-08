@@ -1,5 +1,7 @@
 # Go Modules
 
+go-say-hello repository: https://github.com/anggidast/go-say-hello
+
 Go Modules is library or dependency management
 
 ## Create a Module
@@ -50,6 +52,8 @@ git push origin v1.0.0
 The module will have releases tag
 
 <img width="200" src="./assets/1.png" alt="1">
+
+go-say-hello repository: https://github.com/anggidast/go-say-hello
 
 ## Add Dependency
 
